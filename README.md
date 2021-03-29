@@ -1,6 +1,6 @@
 # LeverPack
 ## Changelog
-### 1.16.05
+### [1.16.05]
 - Smoother Lava
 
 ### [1.16.04]
