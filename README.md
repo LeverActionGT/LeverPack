@@ -1,4 +1,16 @@
 # LeverPack
+## Credis
+*This is a personal pack so some elements are copied and merged from other packs*
+- Phantom Elytra: u/blackdragon6547
+- Clear Glass: https://xaphex.github.io/
+- Redstone: CodeCrafted Custom (old version)
+- Brewing stand: minecraftforum.net - [Andeerz](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1250909-better-brewing-stand-texture-idea)
+- Vanilla Tweaks by [Xisumavoid:](https://www.xisumavoid.com/vanillatweaks)
+- Colorcoded Enchantments: [Teee](https://www.planetminecraft.com/texture_pack/color-coded-enchantment-types/)
+- Better Books: [dasher865](https://www.planetminecraft.com/texture_pack/dasher-s-custom-enchant-books-for-1-15-x/)
+- Small biome changes: [Blackbone's VBB](https://sites.google.com/view/vanillabutbetter)
+- Visual Icons: RikuLaxion
+- Massive Biome Changes: [Shrimpsnail](https://www.planetminecraft.com/texture-pack/biomes-5021476/)
 ## Changelog
 ### [1.16.05]
 - Smoother Lava
