@@ -1,5 +1,5 @@
 # LeverPack
-## Credis
+## Credits
 *This is a personal pack so some elements are copied and merged from other packs*
 - 3D Lodestone: [whitepeepohappy](https://www.planetminecraft.com/texture-pack/3d-lodestone-5044296/)
 - Better Books: [dasher865](https://www.planetminecraft.com/texture_pack/dasher-s-custom-enchant-books-for-1-15-x/)
