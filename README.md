@@ -4,7 +4,7 @@
 - 3D Lodestone: [whitepeepohappy](https://www.planetminecraft.com/texture-pack/3d-lodestone-5044296/)
 - Better Books: [dasher865](https://www.planetminecraft.com/texture_pack/dasher-s-custom-enchant-books-for-1-15-x/)
 - Biome Changes: [Shrimpsnail](https://www.planetminecraft.com/texture-pack/biomes-5021476/) [Blackbone](https://sites.google.com/view/vanillabutbetter)
-- Brewing stand: minecraftforum.net - [Andeerz](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1250909-better-brewing-stand-texture-idea)
+- Brewing stand: [Andeerz](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1250909-better-brewing-stand-texture-idea)
 - Clear Glass: [xaphex](https://xaphex.github.io/)
 - Colorcoded Enchantments: [Teee](https://www.planetminecraft.com/texture_pack/color-coded-enchantment-types/)
 - Phantom Elytra: [blackdragon6547](https://www.reddit.com/u/blackdragon6547)
