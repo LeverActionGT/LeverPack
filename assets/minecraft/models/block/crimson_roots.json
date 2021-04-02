@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross_crimson",
+  "textures": {
+    "cross": "minecraft:block/crimson_roots"
+  }
+}
