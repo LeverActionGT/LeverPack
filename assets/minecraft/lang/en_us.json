@@ -1361,5 +1361,6 @@
   "block.minecraft.deepslate_tile_wall": "Grimstone Tile Wall",
   "block.minecraft.cracked_deepslate_bricks": "Cracked Grimstone Bricks",
   "block.minecraft.cracked_deepslate_tiles": "Cracked Grimstone Tiles",
-  "block.minecraft.infested_deepslate": "Infested Grimstone"
+  "block.minecraft.infested_deepslate": "Infested Grimstone",
+  "options.touchscreen": "Inventory Drag Mode"
 }
