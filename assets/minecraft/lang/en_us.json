@@ -1330,7 +1330,6 @@
   "item.minecraft.chorus_fruit":"Chorus Fruit \u2473\u2473",
   "item.minecraft.beetroot":"Beetroot \u2472",
   "item.minecraft.beetroot_soup":"Beetroot Soup \u2473\u2473\u2473",
-  "item.minecraft.suspicious_stew":"Suspicious Stew \u2473\u2473\u2473",
   "item.minecraft.sweet_berries":"Sweet Berries \u2473",
   "item.minecraft.honey_bottle":"Honey Bottle \u2473\u2473\u2473",
   "block.minecraft.deepslate_gold_ore": "Grimstone Gold Ore",
@@ -1362,5 +1361,7 @@
   "block.minecraft.cracked_deepslate_bricks": "Cracked Grimstone Bricks",
   "block.minecraft.cracked_deepslate_tiles": "Cracked Grimstone Tiles",
   "block.minecraft.infested_deepslate": "Infested Grimstone",
-  "options.touchscreen": "Inventory Drag Mode"
+  "options.touchscreen": "Inventory Drag Mode",
+  "item.minecraft.suspicious_stew":"Sus Stew \u2473\u2473\u2473",
+  "subtitles.entity.mooshroom.suspicious_milk": "Sus mooshroom gets milked"
 }
