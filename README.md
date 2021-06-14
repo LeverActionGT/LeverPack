@@ -3,7 +3,8 @@
 *This is a personal pack so some elements are copied and merged from other packs*
 - 3D Lodestone: [whitepeepohappy](https://www.planetminecraft.com/texture-pack/3d-lodestone-5044296/)
 - Better Books: [dasher865](https://www.planetminecraft.com/texture_pack/dasher-s-custom-enchant-books-for-1-15-x/)
-- Biome Changes: [Shrimpsnail](https://www.planetminecraft.com/texture-pack/biomes-5021476/) [Blackbone](https://sites.google.com/view/vanillabutbetter)
+- Biome Changes: [Shrimpsnail](https://www.planetminecraft.com/texture-pack/biomes-5021476/) 
+- VanillaButBetter: [Blackbone](https://sites.google.com/view/vanillabutbetter)
 - Brewing stand: [Andeerz](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1250909-better-brewing-stand-texture-idea)
 - Clear Glass: [xaphex](https://xaphex.github.io/)
 - Colorcoded Enchantments: [Teee](https://www.planetminecraft.com/texture_pack/color-coded-enchantment-types/)
@@ -12,6 +13,16 @@
 - Vanilla Tweaks by [Xisumavoid:](https://www.xisumavoid.com/vanillatweaks)
 - Visual Icons: RikuLaxion
 ## Changelog
+
+### [1.17 v1]
+- New Name Format
+- Changelog is only here now
+- Custom Elytra
+- New Ores
+- 3D Lodestone
+- Restructured ctm
+- Sus stew
+- Inventory Drag Mode
 ### [1.16.05]
 - Smoother Lava
 
