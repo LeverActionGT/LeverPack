@@ -14,6 +14,16 @@
 - Visual Icons: RikuLaxion
 ## Changelog
 
+### [1.17 v2]
+- Visual Honey Stages
+- Visual Composter Stages
+- Visual Cauldron Stages
+- Better Levers
+- Connected Tinted Glass
+- Visual Infested and Waxed blocks
+- Note Block Fixes
+- BEtter Brewing Guide
+
 ### [1.17 v1]
 - New Name Format
 - Changelog is only here now
@@ -23,6 +33,7 @@
 - Restructured ctm
 - Sus stew
 - Inventory Drag Mode
+
 ### [1.16.05]
 - Smoother Lava
 
