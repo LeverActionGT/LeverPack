@@ -22,7 +22,8 @@
 - Connected Tinted Glass
 - Visual Infested and Waxed blocks
 - Note Block Fixes
-- BEtter Brewing Guide
+- Better Brewing Guide
+- Added Exception For GetLeverPack
 
 ### [1.17 v1]
 - New Name Format
