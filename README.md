@@ -15,6 +15,12 @@
 - Visual Icons: RikuLaxion
 ## Changelog
 
+### [1.17 v3]
+- Compressed Audio Files
+- Bagged Powders
+- Visual Tool Enchantments
+  - Trident
+
 ### [1.17 v2]
 - Visual Honey Stages
 - Visual Composter Stages
