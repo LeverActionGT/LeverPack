@@ -2,7 +2,7 @@
 ## Credits
 *This is a personal pack so some elements are copied and merged from other packs*
 - 3D Lodestone: [whitepeepohappy](https://www.planetminecraft.com/texture-pack/3d-lodestone-5044296/)
-- All credits go to artists for their songs.
+- All credit goes to artists for their songs and album art
 - Better Books: [dasher865](https://www.planetminecraft.com/texture_pack/dasher-s-custom-enchant-books-for-1-15-x/)
 - Biome Changes: [Shrimpsnail](https://www.planetminecraft.com/texture-pack/biomes-5021476/) 
 - Brewing stand: [Andeerz](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1250909-better-brewing-stand-texture-idea)
@@ -20,6 +20,7 @@
 - Bagged Powders
 - Visual Tool Enchantments
   - Trident
+- Album Art
 
 ### [1.17 v2]
 - Visual Honey Stages

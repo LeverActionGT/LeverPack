@@ -20,20 +20,119 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/hunger_half.png",
-			"ascent": 8,
-			"height": 16,
+			"file": "minecraft:gui/thumbnail/11.png",
+			"ascent": 20,
+			"height": 32,
 			"chars": [
-				"\uEff3"
+				"\uEfe1"
 			]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/hunger_full.png",
-			"ascent": 8,
-			"height": 16,
+			"file": "minecraft:gui/thumbnail/13.png",
+			"ascent": 20,
+			"height": 32,
 			"chars": [
-				"\uEff4"
+				"\uEfe2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/blocks.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/cat.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/chirp.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/far.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/mall.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/mellohi.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/pigstep.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfe9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/stal.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfea"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/strad.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfeb"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/wait.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfec"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/thumbnail/ward.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"\uEfed"
 			]
 		}
 	]
